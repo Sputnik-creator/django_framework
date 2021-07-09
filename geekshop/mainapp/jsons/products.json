@@ -1,0 +1,134 @@
+[
+  {
+      "category": "Электроинструмент",
+      "name": "Шуруповерт",
+      "image": "product_images/wFhI5gv4tgU.jpg",
+      "short_desk": "Шуруповерт 18Вт",
+      "price": "6999.90",
+      "quantity": 5,
+      "description": "Надежный помощник в ремонте"
+
+  },
+  {
+      "category": "Офис",
+      "name": "Перфоратор",
+      "image": "product_images/948_original.jpg",
+      "short_desk": "Перфоратор 220Вт",
+      "price": "15900.00",
+      "quantity": 7,
+      "description": "Вещь для любого мастера"
+
+  },
+  {
+      "category": "Офис",
+      "name": "Стул",
+      "image": "product_images/51bPdhumUL._AC_UL320_.jpg",
+      "short_desk": "Интерьер",
+      "price": "5000.00",
+      "quantity": 7,
+      "description": "Прибор"
+  },
+  {
+    "category": "Классик",
+      "name": "Лампа",
+      "image": "product_images/slider-hotdeal.jpg",
+      "short_desk": "Декорация",
+      "price": "4580.00",
+      "quantity": 5,
+      "description": "Идеальный выбор"
+  },
+  {
+      "category": "Классик",
+      "name": "Диван",
+      "image": "product_images/product-2.jpg",
+      "short_desk": "Удобная мебель",
+      "price": "7589.00",
+      "quantity": 7,
+      "description": "Для ценителей"
+  },
+  {
+      "category": "Классик",
+      "name": "Кресло",
+      "image": "product_images/product-1.jpg",
+      "short_desk": "Удобное кресло",
+      "price": "3000.00",
+      "quantity": 12,
+      "description": "Лучший подарок"
+
+  },
+  {
+      "category": "Дом",
+      "name": "Чайник",
+      "image": "product_images/product-4-sm.jpg",
+      "short_desk": "Электроприбор",
+      "price": "1000.00",
+      "quantity": 34,
+      "description": "Универсальный помощник"
+
+  },
+  {
+      "category": "Дом",
+      "name": "Торшер",
+      "image": "product_images/product-3-sm.jpg",
+      "short_desk": "Приглушенный свет",
+      "price": "15500.00",
+      "quantity": 3,
+      "description": "Ваш неповторимый вкус"
+
+  },
+  {
+      "category": "Дом",
+      "name": "Часы",
+      "image": "product_images/product-3.jpg",
+      "short_desk": "Часы настенные",
+      "price": "750.00",
+      "quantity": 10,
+      "description": "Возможно все"
+
+  },
+  {
+      "category": "Модерн",
+      "name": "Декорация",
+      "image": "product_images/product-2-sm.jpg",
+      "short_desk": "Декоративный предмет",
+      "price": "5400.00",
+      "quantity": 11,
+      "description": "Для ценителей прекрасного"
+  },
+  {
+      "category": "Модерн",
+      "name": "Элемент мебели",
+      "image": "product_images/product-4.jpg",
+      "short_desk": "Какаято штука",
+      "price": "4800.00",
+      "quantity": 9,
+      "description": "Уже не знаю о чем пишу"
+  },
+  {
+      "category": "Модерн",
+      "name": "Зеркало",
+      "image": "product_images/product-51.jpg",
+      "short_desk": "Зеркало в гостинную",
+      "price": "1000.00",
+      "quantity": 4,
+      "description": "Вы будете не отразимы"
+  },
+  {
+      "category": "Модерн",
+      "name": "Ковер",
+      "image": "product_images/promo-img2.jpg",
+      "short_desk": "Ковер самолет",
+      "price": "7120.50",
+      "quantity": 8,
+      "description": "Улетая за горизонт"
+  },
+  {
+      "category": "Модерн",
+      "name": "Скатерть",
+      "image": "product_images/product-41.jpg",
+      "short_desk": "Универсальная скатерть",
+      "price": "2200.00",
+      "quantity": 6,
+      "description": "Какой стол такой и стул"
+  }
+]
