@@ -1,7 +1,8 @@
-from django.contrib.auth.models import User
-from django.core.management.base import BaseCommand
 import os
 import json
+
+from django.contrib.auth.models import User
+from django.core.management.base import BaseCommand
 
 from authapp.models import ShopUser
 from mainapp.models import ProductCategory, Product
